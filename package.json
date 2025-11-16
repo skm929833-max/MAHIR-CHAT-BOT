@@ -1,7 +1,7 @@
 {
-  "name": "SHAHADAT CHAT BOT",
+  "name": "MAHIR CHAT BOT",
   "version": "10.1.1",
-  "description": "Made By SHAHADAT SAHU",
+  "description": "Made By MAHIR KHAN",
   "main": "Main.js",
   "engines": {
     "node": "20.x",
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/shahadat-sahu/SHAHADAT-CHAT-BOT.git"
+    "url": "https://github.com/skm929833-max/MAHIR-CHAT-BOT.git/issues"
   },
   "keywords": [
     "bot",
@@ -24,15 +24,15 @@
     "javascript",
     "shadat",
     "ullash",
-    "shahadat sahu",
-    "shahadat chat bot"
+    "MAHIR KHAN",
+    "mahir chat bot"
   ],
-  "author": "SHAHADAT SAHU",
+  "author": "MAHIR KHAN",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/shahadat-sahu/SHAHADAT-CHAT-BOT/issues"
+    "url": "https://github.com/skm929833-max/MAHIR-CHAT-BOT.git/issues"
   },
-  "homepage": "https://github.com/shahadat-sahu/SHAHADAT-CHAT-BOT/issues",
+  "homepage": "https://github.com/skm929833-max/MAHIR-CHAT-BOT.git/issues",
   "dependencies": {
     "@distube/ytdl-core": "^4.13.2",
     "@miraipr0ject/assets": "^1.0.9",
